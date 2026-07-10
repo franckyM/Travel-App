@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Holiday Travel Agency",
+    "image": "https://plus.unsplash.com/premium_photo-1677343210638-5d3ce6ddbf85?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.7,
+    "reviews": 1458
+  },
+  {
+    "id": "2",
+    "name": "Happy Tour Planners",
+    "image": "https://images.unsplash.com/photo-1541447271487-09612b3f49f7?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.8,
+    "reviews": 650
+  },
+  {
+    "id": "3",
+    "name": "Wanderlust Expeditions",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.9,
+    "reviews": 2105
+  },
+  {
+    "id": "4",
+    "name": "Ocean Breeze Getaways",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": "5",
+    "name": "Alpine Horizon Tours",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.6,
+    "reviews": 412
+  },
+  {
+    "id": "6",
+    "name": "Global Nomad Travel",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.4,
+    "reviews": 1780
+  },
+  {
+    "id": "7",
+    "name": "EcoVentures Worldwide",
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.9,
+    "reviews": 1240
+  },
+  {
+    "id": "8",
+    "name": "City Pulse Escapes",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.3,
+    "reviews": 530
+  },
+  {
+    "id": "9",
+    "name": "Safari Dreams Agency",
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.8,
+    "reviews": 985
+  },
+  {
+    "id": "10",
+    "name": "Island Hop Planners",
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.7,
+    "reviews": 610
+  },
+  {
+    "id": "11",
+    "name": "Summit Treks & Trails",
+    "image": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.9,
+    "reviews": 1320
+  },
+  {
+    "id": "12",
+    "name": "Heritage Voyage Co.",
+    "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.6,
+    "reviews": 745
+  },
+  {
+    "id": "13",
+    "name": "Azure Coast Vacations",
+    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.7,
+    "reviews": 1102
+  },
+  {
+    "id": "14",
+    "name": "Wilderness Quest",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.5,
+    "reviews": 390
+  },
+  {
+    "id": "15",
+    "name": "Zenith Luxury Travel",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.9,
+    "reviews": 245
+  },
+  {
+    "id": "16",
+    "name": "Compass Rose Journeys",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.4,
+    "reviews": 820
+  },
+  {
+    "id": "17",
+    "name": "Backpacker Central",
+    "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.2,
+    "reviews": 1945
+  },
+  {
+    "id": "18",
+    "name": "Aurora Borealis Tours",
+    "image": "https://images.unsplash.com/photo-1529963183134-61a90db47eaf?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.8,
+    "reviews": 670
+  },
+  {
+    "id": "19",
+    "name": "Sunseeker Travel Group",
+    "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.6,
+    "reviews": 1250
+  },
+  {
+    "id": "20",
+    "name": "Oasis Desert Safaris",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=60",
+    "rating": 4.7,
+    "reviews": 495
+  }
+]
